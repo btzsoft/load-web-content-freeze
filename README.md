@@ -1,4 +1,4 @@
-# load-web-content-freeze-main
+# load-web-content-freeze
 
 **Having multiple BrowserWindow and navigating simultaneously through web content causes main process to freeze**
 
